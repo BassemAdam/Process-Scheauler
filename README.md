@@ -13,8 +13,8 @@ It is important to note that there may be some corner cases that have not yet be
 Refer to uploaded videos of mine 
 explaining the used data structure and testing the simulation in its very first stage 
 
-testing application
+testing application for phase 1 & explaning data structure 
+
 https://www.youtube.com/watch?v=dTcdWoT2WSs
 
-explaning data structure 
 https://www.youtube.com/watch?v=KWcLfOIil1s
