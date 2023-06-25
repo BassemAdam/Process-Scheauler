@@ -9,3 +9,12 @@ Throughout the project, I was responsible for developing the work stealing proce
 Overall, this project was an excellent opportunity for me to apply my knowledge of programming concepts, algorithms, and data structures. It allowed me to gain a deeper understanding of process scheduling and resource management in computer systems while also improving my skills in C++ programming.
 
 It is important to note that there may be some corner cases that have not yet been handled in the project. 
+
+Refer to uploaded videos of mine 
+explaining the used data structure and testing the simulation in its very first stage 
+
+testing application
+https://www.youtube.com/watch?v=dTcdWoT2WSs
+
+explaning data structure 
+https://www.youtube.com/watch?v=KWcLfOIil1s
