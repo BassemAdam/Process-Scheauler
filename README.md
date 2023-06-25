@@ -7,3 +7,5 @@ The simulation included four types of processors - Round Robin, FCFS, SJF, and E
 Throughout the project, I was responsible for developing the work stealing processor,IO_request handling ,implementing the EDF scheduling algorithm, and creating the load function and output to files feature. This involved designing and implementing the algorithmic logic, testing, and debugging the code to ensure its accuracy and efficiency, while also utilizing various data structures to manage the processes.
 
 Overall, this project was an excellent opportunity for me to apply my knowledge of programming concepts, algorithms, and data structures. It allowed me to gain a deeper understanding of process scheduling and resource management in computer systems while also improving my skills in C++ programming.
+
+It is important to note that there may be some corner cases that have not yet been handled in the project. 
